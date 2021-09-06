@@ -7,8 +7,8 @@
 
 
 - 💻 ML Engineer at <a href="https://omdena.com/">Omdena</a>
-- 🕵 Intern at <a href="https://www.thesparksfoundationsingapore.org/">The Sparks Foundation</a> and <a href="https://letsgrowmore.in/">LetsGrowMore</a>
-- 🗣️ Delegate at <a href="https://hpair.org/">HPAIR</a> and <a href="https://www.asia-pacific.undp.org/content/rbap/en/home/">UNDP in Asia and the Pacific</a>
+- 🕵 Interned at <a href="https://www.thesparksfoundationsingapore.org/">The Sparks Foundation</a> and <a href="https://letsgrowmore.in/">LetsGrowMore</a>
+- 🗣️ Delegated at <a href="https://hpair.org/">HPAIR</a> and <a href="https://www.asia-pacific.undp.org/content/rbap/en/home/">UNDP in Asia and the Pacific</a>
 - 💬 Ask me about Technical stuff 💻 and Research work 📝
 - 📫 How to reach me<br>
 
