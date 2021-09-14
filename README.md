@@ -25,6 +25,3 @@
 <img src="https://i.pinimg.com/originals/cb/3c/bb/cb3cbb8f73dc7f98555ae36cd422705e.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect with you!</b></em>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ameyark28)
-
-
-![Chart not found](https://raw.githubusercontent.com/ameyark28/ameyark28/master/charts/bar_graph.png) 
