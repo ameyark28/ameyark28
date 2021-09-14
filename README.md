@@ -21,6 +21,7 @@
 
 ![Ameya Kshirsagar's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ameyark28&theme=blue-green)
 
+[![Ameya Kshirsagar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://i.pinimg.com/originals/cb/3c/bb/cb3cbb8f73dc7f98555ae36cd422705e.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect with you!</b></em>
 
