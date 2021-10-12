@@ -18,7 +18,6 @@
 
 ![Ameya Kshirsagar's github stats](https://github-readme-stats.vercel.app/api?username=ameyark28)
 
-
 ![Ameya Kshirsagar's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ameyark28&theme=blue-green)
 
 
