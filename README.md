@@ -10,7 +10,7 @@
 - 🕵 Interned at <a href="https://www.thesparksfoundationsingapore.org/">The Sparks Foundation</a> and <a href="https://letsgrowmore.in/">LetsGrowMore</a>
 - 🗣️ Delegated at <a href="https://hpair.org/">HPAIR</a> and <a href="https://www.asia-pacific.undp.org/content/rbap/en/home/">UNDP in Asia and the Pacific</a>
 - 💬 Ask me about Technical stuff 💻 and Research work 📝
-- 📫 How to reach me<br>
+- 📫 Reach me @<br>
 
 [<img src="https://img.shields.io/badge/google_scholar-%230077B7.svg?&style=for-the-badge&logo=googlescholar&logoColor=white"/>](https://scholar.google.com/citations?user=17dvamEAAAAJ&hl=en) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ameya-kshirsagar-587621172/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ameya_kshirsagar/)
