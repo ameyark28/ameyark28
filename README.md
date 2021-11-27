@@ -6,7 +6,7 @@
 <!-- <h3 align="center"> A passionate Data Scientist from India.</h3><br>--> 
 
 
-- 💻 ML Engineer at <a href="https://omdena.com/">Omdena</a>
+- 💻 ML Engineer at <a href="https://omdena.com/">Omdena.</a>
 - 🕵 Interned at <a href="https://www.thesparksfoundationsingapore.org/">The Sparks Foundation</a> and <a href="https://letsgrowmore.in/">LetsGrowMore</a>
 - 🗣️ Delegated at <a href="https://hpair.org/">HPAIR</a> and <a href="https://www.asia-pacific.undp.org/content/rbap/en/home/">UNDP in Asia and the Pacific</a>
 - 💬 Ask me about Technical stuff 💻 and Research work 📝
